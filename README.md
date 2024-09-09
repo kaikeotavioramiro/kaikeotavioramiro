@@ -2,9 +2,11 @@
 
 Meu nome é **kaike otavio**
 
--estou estudando na alura
--estou desenvolvendo na linguagem javascripgt
--utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-Estou estudando na alura
+
+-Estou desenvolvendo na linguagem javascripgt
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📧
 
